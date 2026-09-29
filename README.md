@@ -2,7 +2,7 @@
 
 **Name:** Anush Chandak
 **Roll No.:** 16014225013
-**Batch:** <your batch>
+**Batch:** <A-1(AIDS)>
 **Class:** SY B.Tech AI & Data Science, Sem III
 **Institute:** K J Somaiya School of Engineering, Somaiya Vidyavihar University
 
@@ -10,7 +10,7 @@
 
 | Exp No. | Title | Report |
 |---------|-------|--------|
-| 2 | Understanding Data with Programming Exercise | [Exp2_Data_Handling.pdf](Exp2_Data_Handling.pdf) |
+| 2 | Understanding Data with Programming Exercise | [Exp2_Data_Handling.pdf](AnushChandak_FDS_EXP2docx_260921_010053.pdf) |
 | 3 | Measuring Central Tendency and Variability of the Data | [Exp3_Central_Tendency_Variability.pdf](Exp3_Central_Tendency_Variability.pdf) |
 
 ## Dataset
