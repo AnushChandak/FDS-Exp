@@ -11,7 +11,7 @@
 | Exp No. | Title | Report |
 |---------|-------|--------|
 | 2 | Understanding Data with Programming Exercise | [Exp2_Data_Handling.pdf](AnushChandak_FDS_EXP2docx_260921_010053.pdf) |
-| 3 | Measuring Central Tendency and Variability of the Data | [Exp3_Central_Tendency_Variability.pdf](Anush Chandak_16014225013_FDS_EXP_3.docx.pdf) |
+| 3 | Measuring Central Tendency and Variability of the Data |[Exp3_Central_Tendency_Variability.pdf](<Anush Chandak_16014225013_FDS_EXP_3.docx.pdf>) |
 
 ## Dataset
 
